@@ -1,2 +1,1 @@
-Test-repo
-=========
+This is an exercise
