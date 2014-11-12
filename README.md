@@ -1,5 +1,5 @@
-*This is an exercise
-**ha ha ha
+#This is an exercise
+##ha ha ha
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
